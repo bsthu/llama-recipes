@@ -5,6 +5,7 @@
 import fire
 import torch
 import os
+import ws
 import sys
 import warnings
 from typing import List
